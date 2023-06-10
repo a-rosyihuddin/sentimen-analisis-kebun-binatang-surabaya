@@ -1,4 +1,4 @@
-# Sentiment Analysis Documentation
+# Sentiment Analysis Using SVM (Support Vector Machine)
 
 This repository contains code for sentiment analysis using SVM (Support Vector Machine). The code is written in Python and utilizes various libraries such as NLTK, Sastrawi, and scikit-learn. The code is designed to be run in Google Colab.
 
